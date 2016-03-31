@@ -1,5 +1,0 @@
- Monetary policy is the process by which the monetary authority of a country controls the supply of money, often targeting a rate of interest for the purpose of promoting economic growth and stability.The official goals usually include relatively stable prices and low unemployment. Monetary economics provides insight into how to craft optimal monetary policy.
-
-Monetary policy is referred to as either being expansionary or contractionary, where an expansionary policy increases the total supply of money in the economy more rapidly than usual, and contractionary policy expands the money supply more slowly than usual or even shrinks it. Expansionary policy is traditionally used to try to combat unemployment in a recession by lowering interest rates in the hope that easy credit will entice businesses into expanding. Contractionary policy is intended to slow inflation in order to avoid the resulting distortions and deterioration of asset values.
-
-Monetary policy differs from fiscal policy, which refers to taxation, government spending, and associated borrowing.

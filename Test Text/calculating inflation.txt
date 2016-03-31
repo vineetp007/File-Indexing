@@ -1,3 +1,0 @@
-Calculating inflation
-
-Inflation is the change in the price level from one year to the next. The change in inflation can be calculated by using whatever price index is most applicable to the given situation. The two most common price indices used in calculating inflation are CPI and the GDP deflator. Know, though, that the inflation rates derived from different price indices will themselves be different.
